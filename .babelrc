@@ -1,0 +1,10 @@
+{
+	// when the project runs babel, run these presets
+	"presets": [
+		"env",
+		"react"
+  ],
+  "plugins": [
+    "transform-class-properties"
+  ]
+}
